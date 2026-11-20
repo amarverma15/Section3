@@ -11,7 +11,15 @@ public class Demo {
 		System.out.println("ep");
 		System.out.println("mp");
 		System.out.println("e");
-		System.out.println("emp");
+	
+
+		System.out.println("pr");
+
+		System.out.println("ar");
+		System.out.println("pr");
+
+		System.out.println("ar");
+
 		
 	}
 
