@@ -11,6 +11,9 @@ public class Demo {
 		System.out.println("pr");
 
 		System.out.println("ar");
+		System.out.println("pr");
+
+		System.out.println("ar");
 
 		
 	}
