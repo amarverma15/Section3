@@ -7,6 +7,12 @@ public class Demo {
 		};
 		for(Employee emp:emps)
 			System.out.println(emp);
+		System.out.println("em");
+		System.out.println("ep");
+		System.out.println("mp");
+		System.out.println("e");
+		System.out.println("emp");
+		
 	}
 
 }
